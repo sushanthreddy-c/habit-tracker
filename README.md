@@ -1,6 +1,6 @@
 🚀 Habit Tracker
 
-🔗 Live Demo: https://your-username.github.io/habit-tracker/
+🔗 Live Demo:  https://sushanthreddy-c.github.io/habit-tracker/
 
 📌 Description
 
